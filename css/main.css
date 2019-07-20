@@ -1623,7 +1623,7 @@
 	}
 
 	body {
-		background-color: #935d8c;
+		background-color: #5d9293;
 		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #666666 15%, #222222 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #666666 15%, #222222 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #666666 15%, #222222 85%);
