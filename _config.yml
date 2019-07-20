@@ -62,7 +62,10 @@ author:
   name   : "Daniel Scarfe"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
-  #links:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "http://linkedin.com/"
     #- label: "scarfe.io"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://scarfe.io"
